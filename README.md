@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Muthuselvam
 
-<!--
-**mmuthuselvam298/mmuthuselvam298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Machine Learning Developer
 
-Here are some ideas to get you started:
+🎓 CSE (AI & ML) Student at SRM University-AP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 💻 Backend Developer using FastAPI
+- 👁️ Exploring Computer Vision
+- 🌱 Currently learning LLMs and MLOps
+
+---
+
+## 🚀 Featured Projects
+
+### 🔒 ShieldGrid
+Privacy Detection & Redaction System using FastAPI, OCR and Presidio.
+
+### 👤 Face Recognition
+Face Recognition System using OpenCV.
+
+### 🤖 AI Gym Fitness App
+AI-powered fitness application.
+
+### 🎵 Music Player
+Python-based desktop music player.
+
+---
+
+## 🛠 Tech Stack
+
+Python • C++ • FastAPI • OpenCV • Git • GitHub • Docker • VS Code
+
+---
+
+⭐ Thanks for visiting my profile!
