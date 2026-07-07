@@ -33,6 +33,8 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/followers/mmuthuselvam298?style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/stars/mmuthuselvam298?style=for-the-badge&color=yellow"/>
   <img src="https://komarev.com/ghpvc/?username=mmuthuselvam298&label=Visitors&color=blueviolet&style=for-the-badge"/>
 </p>
 
@@ -40,37 +42,147 @@
 
 ## 👨‍💻 About Me
 
-- 🤖 **Core Focus:** Deeply interested in Artificial Intelligence & Machine Learning engineering.
-- 💻 **Backend Engineering:** Building scalable, asynchronous web APIs using **FastAPI**.
-- 👁️ **Computer Vision:** Implementing real-time processing and detection systems with **OpenCV**.
-- 🌱 **Current Horizon:** Actively mastering Large Language Models (**LLMs**) and **MLOps** pipelines.
+- 🤖 **Passionate** about building AI-powered applications that solve real-world problems.
+- 💻 **Developing** scalable backend services with FastAPI and Python.
+- 👁️ **Exploring** Computer Vision, OCR, and Intelligent Automation.
+- 📚 **Currently learning** LLMs, RAG pipelines, and MLOps.
+
+<p align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="550"/>
+</p>
+
+---
+
+## 🛠️ Development Environment
+
+- 💻 VS Code
+- 🐍 Python
+- ⚡ FastAPI
+- 🐳 Docker
+- 🐧 Linux
+- 🌿 Git
+- ☁️ AWS
+
+---
+
+## 🚀 Currently Working On
+
+- 🔭 Building AI-powered applications with **FastAPI**
+- 🤖 Learning **LLMs, RAG & MLOps**
+- 🌱 Exploring **Computer Vision** and **Deep Learning**
+- 🎯 Goal: Become an AI Engineer specializing in intelligent automation
+
+---
+
+## 📊 Profile Snapshot
+
+- ✔️ AI & ML Projects
+- ✔️ Computer Vision
+- ✔️ FastAPI APIs
+- ✔️ Machine Learning
+- ✔️ Python Development
+- ✔️ Open Source Learning
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔒 ShieldGrid
-> **Privacy Detection & Redaction System**  
+> **Privacy Detection & Redaction System**
+>
 > An enterprise-grade application using **FastAPI**, **OCR**, and **Microsoft Presidio** to detect and redact sensitive PII from documents in real time.
 
+[🔗 View Repository](https://github.com/mmuthuselvam298/ShieldGrid)
+
+**Tech Stack**
+`Python` `FastAPI` `OCR` `Presidio` `Machine Learning`
+
 ### 👤 Face Recognition
-> **Computer Vision System**  
+> **Computer Vision System**
+>
 > A high-accuracy facial recognition system built using **OpenCV** and Python for real-time face detection and verification.
 
+[🔗 View Repository](https://github.com/mmuthuselvam298/Face-Recognition)
+
+**Tech Stack**
+`Python` `OpenCV` `Computer Vision` `Deep Learning`
+
 ### 🤖 AI Gym Fitness App
-> **Intelligent Motion Tracking Application**  
+> **Intelligent Motion Tracking Application**
+>
 > AI-powered fitness assistant that detects body posture, counts repetitions, and provides real-time feedback using computer vision.
 
+[🔗 View Repository](https://github.com/mmuthuselvam298/AI-Gym-Fitness-App)
+
+**Tech Stack**
+`Python` `OpenCV` `Mediapipe` `Computer Vision`
+
 ### 🎵 Music Player
-> **Desktop Audio Client**  
+> **Desktop Audio Client**
+>
 > A lightweight desktop music player developed in Python with an intuitive interface and smooth playback controls.
+
+[🔗 View Repository](https://github.com/mmuthuselvam298/Music-Player)
+
+**Tech Stack**
+`Python` `Tkinter` `Pygame` `GUI Development`
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Microsoft (via Coursera)** – Build a Computer Vision App with Azure Cognitive Services *(Sept 2025)*
+- 🏅 **be10x** – AI Tools and ChatGPT Workshop *(June 2025)*
+- 🏅 **LearnTube by CareerNinja** – Applied Artificial Intelligence Assessment *(Apr 2025)*
+- 🏅 **Udemy** – Python A-Z™: Python for Data Science with Real Exercises *(Feb 2023)*
+
+---
+
+## 🏆 Achievements
+
+- 🏅 AI & ML Student at SRM University-AP
+- 💡 Built multiple AI-powered applications
+- 🚀 Completed industry internship
+- 🧠 Active competitive programmer on CodeChef
+
+---
+
+## 🌍 Languages
+
+- 🇬🇧 English
+- 🇮🇳 Tamil
+- 🇮🇳 Hindi
 
 ---
 
 # 💻 Tech Stack
 
+### 🧠 AI & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
+</p>
+
+### 🌐 Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql"/>
+</p>
+
+### 🛠️ Programming
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp"/>
+</p>
+
+### 🚀 Dev Tools & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,fastapi,tensorflow,pytorch,opencv,mongodb,mysql,git,github,docker,linux,aws,html,css,js,vscode&perline=9"/>
+  <img src="https://raw.githubusercontent.com/mmuthuselvam298/mmuthuselvam298/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
