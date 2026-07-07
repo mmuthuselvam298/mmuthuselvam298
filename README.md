@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="banner.png" width="100%" alt="Banner"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi%2C+I'm+Muthuselvam+👋;AI+%26+Machine+Learning+Developer;Building+AI-Powered+Applications;Always+Learning+Something+New+🚀" />
 </p>
 
