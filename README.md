@@ -45,7 +45,7 @@
 - 🤖 **Passionate** about building AI-powered applications that solve real-world problems.
 - 💻 **Developing** scalable backend services with FastAPI and Python.
 - 👁️ **Exploring** Computer Vision, OCR, and Intelligent Automation.
-- 📚 **Currently learning** LLMs, RAG pipelines, and MLOps.
+- 📚 **Currently learning** LLMs, RAG pipelines, AI Agents, and MLOps.
 
 <p align="center">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="550"/>
@@ -68,9 +68,9 @@
 ## 🚀 Currently Working On
 
 - 🔭 Building AI-powered applications with **FastAPI**
-- 🤖 Learning **LLMs, RAG & MLOps**
+- 🤖 Learning **LLMs, RAG & AI Agents**
 - 🌱 Exploring **Computer Vision** and **Deep Learning**
-- 🎯 Goal: Become an AI Engineer specializing in intelligent automation
+- 🎯 Building intelligent systems that connect AI with real-world applications
 
 ---
 
@@ -80,163 +80,107 @@
 - ✔️ Computer Vision
 - ✔️ FastAPI APIs
 - ✔️ Machine Learning
+- ✔️ Generative AI
+- ✔️ Distributed Systems
 - ✔️ Python Development
-- ✔️ Open Source Learning
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔒 ShieldGrid
+### 🧠 CampusPulse AI
+> **AI-Powered University Information Intelligence Platform**
+>
+> An intelligent platform designed to connect fragmented university communication channels into one unified student information system.
+>
+> CampusPulse brings together **Gmail, Google Classroom, Google Calendar and Gemini AI** to understand university communications, extract deadlines and actions, detect important updates, and provide grounded AI-powered assistance.
+
+**Tech Stack**
+
+`React` `TypeScript` `Node.js` `Express` `SQLite` `Gemini` `Google APIs` `OAuth 2.0`
+
+> 🚧 **Currently under active development**
+
+---
+
+### 🛡️ ShieldGrid 2.0
 > **Privacy Detection & Redaction System**
 >
-> An enterprise-grade application using **FastAPI**, **OCR**, and **Microsoft Presidio** to detect and redact sensitive PII from documents in real time.
-
-[🔗 View Repository](https://github.com/mmuthuselvam298/ShieldGrid)
-
-**Tech Stack**
-`Python` `FastAPI` `OCR` `Presidio` `Machine Learning`
-
-### 👤 Face Recognition
-> **Computer Vision System**
+> An AI-powered privacy protection application using **FastAPI, OCR and Microsoft Presidio** to detect and redact sensitive Personally Identifiable Information from documents, images and text.
 >
-> A high-accuracy facial recognition system built using **OpenCV** and Python for real-time face detection and verification.
+> Supports PDF, DOCX, images and text-based PII detection and redaction.
 
-[🔗 View Repository](https://github.com/mmuthuselvam298/Face-Recognition)
+[🔗 View Repository](https://github.com/mmuthuselvam298/ShieldGrid-2.0)
 
 **Tech Stack**
-`Python` `OpenCV` `Computer Vision` `Deep Learning`
 
-### 🤖 AI Gym Fitness App
+`Python` `FastAPI` `OCR` `Presidio` `Computer Vision`
+
+---
+
+### 🌐 MeshChat
+> **Distributed Real-Time Chat System**
+>
+> A distributed communication system focused on real-time messaging, persistent storage and scalable backend architecture.
+>
+> The project explores **WebSockets, distributed communication, database persistence and real-time client-server interaction**.
+
+[🔗 View Repository](https://github.com/mmuthuselvam298/distributed-chat-system)
+
+**Tech Stack**
+
+`Java` `React` `TypeScript` `WebSockets` `SQLite` `Distributed Systems`
+
+---
+
+### 📡 Vibro-AI
+> **AI-Assisted Vibration Intelligence Platform**
+>
+> An AI-powered platform developed as part of a **Smart India Hackathon** project, focused on vibration-based monitoring, intelligent analysis and predictive maintenance.
+>
+> The system combines data analysis, AI and visualization to help identify meaningful patterns from vibration-related information.
+
+**Tech Stack**
+
+`AI/ML` `Data Analysis` `Visualization` `Web Technologies`
+
+---
+
+### 🏋️ AI Gym Fitness App
 > **Intelligent Motion Tracking Application**
 >
-> AI-powered fitness assistant that detects body posture, counts repetitions, and provides real-time feedback using computer vision.
+> AI-powered fitness assistant that detects body posture, counts repetitions and provides real-time feedback using computer vision.
 
-[🔗 View Repository](https://github.com/mmuthuselvam298/AI-Gym-Fitness-App)
-
-**Tech Stack**
-`Python` `OpenCV` `Mediapipe` `Computer Vision`
-
-### 🎵 Music Player
-> **Desktop Audio Client**
->
-> A lightweight desktop music player developed in Python with an intuitive interface and smooth playback controls.
-
-[🔗 View Repository](https://github.com/mmuthuselvam298/Music-Player)
+[🔗 View Repository](https://github.com/mmuthuselvam298/ai-fitness-coach)
 
 **Tech Stack**
-`Python` `Tkinter` `Pygame` `GUI Development`
+
+`Python` `OpenCV` `MediaPipe` `Computer Vision`
 
 ---
 
-## 📜 Certifications
+## ⚡ What I'm Building
 
-- 🏅 **Microsoft (via Coursera)** – Build a Computer Vision App with Azure Cognitive Services *(Sept 2025)*
-- 🏅 **be10x** – AI Tools and ChatGPT Workshop *(June 2025)*
-- 🏅 **LearnTube by CareerNinja** – Applied Artificial Intelligence Assessment *(Apr 2025)*
-- 🏅 **Udemy** – Python A-Z™: Python for Data Science with Real Exercises *(Feb 2023)*
-
----
-
-## 🏆 Achievements
-
-- 🏅 AI & ML Student at SRM University-AP
-- 💡 Built multiple AI-powered applications
-- 🚀 Completed industry internship
-- 🧠 Active competitive programmer on CodeChef
-
----
-
-## 🌍 Languages
-
-- 🇬🇧 English
-- 🇮🇳 Tamil
-- 🇮🇳 Hindi
-
----
-
-# 💻 Tech Stack
-
-### 🧠 AI & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
-</p>
-
-### 🌐 Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql"/>
-</p>
-
-### 🛠️ Programming
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp"/>
-</p>
-
-### 🚀 Dev Tools & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mmuthuselvam298/mmuthuselvam298/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmuthuselvam298&theme=github-compact&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mmuthuselvam298&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-# ✨ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github"/>
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/muthuselvam-m/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:mmuthuselvam298@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/mmuthuselvam298" target="_blank">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.instagram.com/dr_doom_ms_/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for visiting ❤️</b>
-  <br><br>
-  <i>"Code. Learn. Build. Repeat."</i>
-</p>
+```text
+                         AI
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+          ▼              ▼              ▼
+      Generative      Computer       AI Agents
+         AI            Vision
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                         ▼
+                Intelligent Systems
+                         │
+             ┌───────────┼───────────┐
+             │           │           │
+             ▼           ▼           ▼
+          Backend     Databases   Automation
+             │           │           │
+             └───────────┼───────────┘
+                         │
+                         ▼
+                 Real-World Apps
