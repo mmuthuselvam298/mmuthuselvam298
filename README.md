@@ -46,9 +46,29 @@
 - 💻 **Developing** scalable backend services with FastAPI and Python.
 - 👁️ **Exploring** Computer Vision, OCR, and Intelligent Automation.
 - 📚 **Currently learning** LLMs, RAG pipelines, AI Agents, and MLOps.
+- 🚀 **Interested in** turning real-world problems into practical software solutions.
 
 <p align="center">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="550"/>
+</p>
+
+---
+
+## ⚡ Profile Highlights
+
+<p align="center">
+
+🎓 <b>CSE – AI & ML</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+🤖 <b>AI / GenAI</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+👁️ <b>Computer Vision</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+⚡ <b>FastAPI</b>
+
+<br><br>
+
+🌐 <b>Distributed Systems</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+🏆 <b>Hackathon Participant</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+🚀 <b>10+ Projects Built</b>
+
 </p>
 
 ---
@@ -89,11 +109,12 @@
 # 🚀 Featured Projects
 
 ### 🧠 CampusPulse AI
+
 > **AI-Powered University Information Intelligence Platform**
->
-> An intelligent platform designed to connect fragmented university communication channels into one unified student information system.
->
-> CampusPulse brings together **Gmail, Google Classroom, Google Calendar and Gemini AI** to understand university communications, extract deadlines and actions, detect important updates, and provide grounded AI-powered assistance.
+
+An intelligent platform designed to connect fragmented university communication channels into one unified student information system.
+
+CampusPulse brings together **Gmail, Google Classroom, Google Calendar and Gemini AI** to understand university communications, extract deadlines and actions, detect important updates, and provide grounded AI-powered assistance.
 
 **Tech Stack**
 
@@ -104,11 +125,12 @@
 ---
 
 ### 🛡️ ShieldGrid 2.0
+
 > **Privacy Detection & Redaction System**
->
-> An AI-powered privacy protection application using **FastAPI, OCR and Microsoft Presidio** to detect and redact sensitive Personally Identifiable Information from documents, images and text.
->
-> Supports PDF, DOCX, images and text-based PII detection and redaction.
+
+An AI-powered privacy protection application using **FastAPI, OCR and Microsoft Presidio** to detect and redact sensitive Personally Identifiable Information from documents, images and text.
+
+Supports PDF, DOCX, images and text-based PII detection and redaction.
 
 [🔗 View Repository](https://github.com/mmuthuselvam298/ShieldGrid-2.0)
 
@@ -119,11 +141,12 @@
 ---
 
 ### 🌐 MeshChat
+
 > **Distributed Real-Time Chat System**
->
-> A distributed communication system focused on real-time messaging, persistent storage and scalable backend architecture.
->
-> The project explores **WebSockets, distributed communication, database persistence and real-time client-server interaction**.
+
+A distributed communication system focused on real-time messaging, persistent storage and scalable backend architecture.
+
+The project explores **WebSockets, distributed communication, database persistence and real-time client-server interaction**.
 
 [🔗 View Repository](https://github.com/mmuthuselvam298/distributed-chat-system)
 
@@ -134,11 +157,12 @@
 ---
 
 ### 📡 Vibro-AI
+
 > **AI-Assisted Vibration Intelligence Platform**
->
-> An AI-powered platform developed as part of a **Smart India Hackathon** project, focused on vibration-based monitoring, intelligent analysis and predictive maintenance.
->
-> The system combines data analysis, AI and visualization to help identify meaningful patterns from vibration-related information.
+
+An AI-powered platform developed as part of a **Smart India Hackathon** project, focused on vibration-based monitoring, intelligent analysis and predictive maintenance.
+
+The system combines data analysis, AI and visualization to help identify meaningful patterns from vibration-related information.
 
 **Tech Stack**
 
@@ -147,9 +171,10 @@
 ---
 
 ### 🏋️ AI Gym Fitness App
+
 > **Intelligent Motion Tracking Application**
->
-> AI-powered fitness assistant that detects body posture, counts repetitions and provides real-time feedback using computer vision.
+
+AI-powered fitness assistant that detects body posture, counts repetitions and provides real-time feedback using computer vision.
 
 [🔗 View Repository](https://github.com/mmuthuselvam298/ai-fitness-coach)
 
@@ -159,28 +184,31 @@
 
 ---
 
-## ⚡ What I'm Building
+# 🧭 Project Journey
 
 ```text
-                         AI
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-          ▼              ▼              ▼
-      Generative      Computer       AI Agents
-         AI            Vision
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                         ▼
-                Intelligent Systems
-                         │
-             ┌───────────┼───────────┐
-             │           │           │
-             ▼           ▼           ▼
-          Backend     Databases   Automation
-             │           │           │
-             └───────────┼───────────┘
-                         │
-                         ▼
-                 Real-World Apps
+🎓 Academic Systems
+        │
+        ├── CPU Scheduling Simulator
+        ├── Library Management System
+        └── Student Performance Analytics
+                │
+                ▼
+🤖 AI & Computer Vision
+        │
+        ├── AI Resume Analyzer
+        ├── AI Fitness Coach
+        ├── Computer Vision Attendance
+        └── ShieldGrid 2.0
+                │
+                ▼
+🌐 Systems & Backend
+        │
+        ├── Network Packet Analyzer
+        └── MeshChat
+                │
+                ▼
+🧠 Intelligent Applications
+        │
+        ├── Vibro-AI
+        └── CampusPulse AI
