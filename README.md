@@ -14,19 +14,15 @@
   <a href="https://www.linkedin.com/in/muthuselvam-m/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://github.com/mmuthuselvam298" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="mailto:mmuthuselvam298@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://www.codechef.com/users/muthu_298" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-
   <a href="https://www.instagram.com/dr_doom_ms_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -40,7 +36,7 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🤖 **Passionate** about building AI-powered applications that solve real-world problems.
 - 💻 **Developing** scalable backend services with FastAPI and Python.
@@ -54,26 +50,31 @@
 
 ---
 
-## ⚡ Profile Highlights
+# ⚡ Profile Highlights
 
 <p align="center">
 
-🎓 <b>CSE – AI & ML</b> &nbsp;&nbsp;•&nbsp;&nbsp;
-🤖 <b>AI / GenAI</b> &nbsp;&nbsp;•&nbsp;&nbsp;
-👁️ <b>Computer Vision</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+🎓 <b>CSE – AI & ML</b>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🤖 <b>AI / GenAI</b>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+👁️ <b>Computer Vision</b>
+&nbsp;&nbsp;•&nbsp;&nbsp;
 ⚡ <b>FastAPI</b>
 
 <br><br>
 
-🌐 <b>Distributed Systems</b> &nbsp;&nbsp;•&nbsp;&nbsp;
-🏆 <b>Hackathon Participant</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+🌐 <b>Distributed Systems</b>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🏆 <b>Hackathon Participant</b>
+&nbsp;&nbsp;•&nbsp;&nbsp;
 🚀 <b>10+ Projects Built</b>
 
 </p>
 
 ---
 
-## 🛠️ Development Environment
+# 🛠️ Development Environment
 
 - 💻 VS Code
 - 🐍 Python
@@ -85,7 +86,7 @@
 
 ---
 
-## 🚀 Currently Working On
+# 🚀 Currently Working On
 
 - 🔭 Building AI-powered applications with **FastAPI**
 - 🤖 Learning **LLMs, RAG & AI Agents**
@@ -94,21 +95,23 @@
 
 ---
 
-## 📊 Profile Snapshot
+# 📊 Profile Snapshot
 
-- ✔️ AI & ML Projects
-- ✔️ Computer Vision
-- ✔️ FastAPI APIs
-- ✔️ Machine Learning
-- ✔️ Generative AI
-- ✔️ Distributed Systems
-- ✔️ Python Development
+| Area | Focus |
+|---|---|
+| 🤖 AI & ML | Machine Learning, GenAI, LLMs |
+| 👁️ Computer Vision | OpenCV, MediaPipe, OCR |
+| ⚡ Backend | Python, FastAPI, REST APIs |
+| 🌐 Full Stack | React, TypeScript, Node.js |
+| 🌐 Systems | WebSockets, Distributed Systems |
+| 🗄️ Databases | SQLite, MySQL, MongoDB |
+| ☁️ Deployment | Docker, AWS, Vercel, Netlify |
 
 ---
 
 # 🚀 Featured Projects
 
-### 🧠 CampusPulse AI
+## 🧠 CampusPulse AI
 
 > **AI-Powered University Information Intelligence Platform**
 
@@ -124,7 +127,7 @@ CampusPulse brings together **Gmail, Google Classroom, Google Calendar and Gemin
 
 ---
 
-### 🛡️ ShieldGrid 2.0
+## 🛡️ ShieldGrid 2.0
 
 > **Privacy Detection & Redaction System**
 
@@ -132,7 +135,7 @@ An AI-powered privacy protection application using **FastAPI, OCR and Microsoft 
 
 Supports PDF, DOCX, images and text-based PII detection and redaction.
 
-[🔗 View Repository](https://github.com/mmuthuselvam298/ShieldGrid-2.0)
+🔗 [View Repository](https://github.com/mmuthuselvam298/ShieldGrid-2.0)
 
 **Tech Stack**
 
@@ -140,7 +143,7 @@ Supports PDF, DOCX, images and text-based PII detection and redaction.
 
 ---
 
-### 🌐 MeshChat
+## 🌐 MeshChat
 
 > **Distributed Real-Time Chat System**
 
@@ -148,7 +151,7 @@ A distributed communication system focused on real-time messaging, persistent st
 
 The project explores **WebSockets, distributed communication, database persistence and real-time client-server interaction**.
 
-[🔗 View Repository](https://github.com/mmuthuselvam298/distributed-chat-system)
+🔗 [View Repository](https://github.com/mmuthuselvam298/distributed-chat-system)
 
 **Tech Stack**
 
@@ -156,7 +159,7 @@ The project explores **WebSockets, distributed communication, database persisten
 
 ---
 
-### 📡 Vibro-AI
+## 📡 Vibro-AI
 
 > **AI-Assisted Vibration Intelligence Platform**
 
@@ -170,13 +173,13 @@ The system combines data analysis, AI and visualization to help identify meaning
 
 ---
 
-### 🏋️ AI Gym Fitness App
+## 🏋️ AI Gym Fitness App
 
 > **Intelligent Motion Tracking Application**
 
 AI-powered fitness assistant that detects body posture, counts repetitions and provides real-time feedback using computer vision.
 
-[🔗 View Repository](https://github.com/mmuthuselvam298/ai-fitness-coach)
+🔗 [View Repository](https://github.com/mmuthuselvam298/ai-fitness-coach)
 
 **Tech Stack**
 
@@ -187,28 +190,23 @@ AI-powered fitness assistant that detects body posture, counts repetitions and p
 # 🧭 Project Journey
 
 ```text
-🎓 Academic Systems
-        │
-        ├── CPU Scheduling Simulator
-        ├── Library Management System
-        └── Student Performance Analytics
-                │
-                ▼
-🤖 AI & Computer Vision
-        │
-        ├── AI Resume Analyzer
-        ├── AI Fitness Coach
-        ├── Computer Vision Attendance
-        └── ShieldGrid 2.0
-                │
-                ▼
-🌐 Systems & Backend
-        │
-        ├── Network Packet Analyzer
-        └── MeshChat
-                │
-                ▼
-🧠 Intelligent Applications
-        │
-        ├── Vibro-AI
-        └── CampusPulse AI
+                         🚀 PROJECT JOURNEY
+                                │
+          ┌─────────────────────┼─────────────────────┐
+          │                     │                     │
+          ▼                     ▼                     ▼
+   🎓 ACADEMIC             🤖 AI & CV            🌐 SYSTEMS
+     SYSTEMS                PROJECTS             & BACKEND
+          │                     │                     │
+          ├─ CPU Scheduling     ├─ AI Resume         ├─ MeshChat
+          ├─ Library Mgmt      ├─ AI Fitness        └─ Network
+          └─ Student Analytics ├─ CV Attendance        Packet Analyzer
+                               └─ ShieldGrid
+                                      │
+                                      ▼
+                              🧠 INTELLIGENT
+                               APPLICATIONS
+                                      │
+                               ┌──────┴──────┐
+                               ▼             ▼
+                           📡 Vibro-AI   🧠 CampusPulse
